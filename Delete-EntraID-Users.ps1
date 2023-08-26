@@ -1,4 +1,4 @@
-### Basic MS Graph command lines for Entra ID administration - a learning session ###
+### Basic MS Graph commands lines for Entra ID administration - a learning session ###
 
 # Install the module needed
 Install-Module -Name Microsoft.Graph
